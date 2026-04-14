@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenAI Agents SDK, Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-tau-sooty.vercel.app/](https://shahabuddin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shahab-uddin.vercel.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js**
 
