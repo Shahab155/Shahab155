@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahab Ud Din</h1>
-<h3 align="center">I am Full Stack developer and AI Agents developer.</h3>
+<h3 align="center">I am Full Stack developer and learning Agentic AI.</h3>
 
 <h1 align="left">About Me!</h1>
 
