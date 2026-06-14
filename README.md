@@ -19,7 +19,7 @@ I build production-ready web apps and AI-powered agents combining a strong front
 
 ## 🧠 What I'm Building
 
-I'm actively working at the intersection of **Full-Stack Engineering** and **Agentic AI** — not just learning the tools, but building real systems with them.
+I'm actively working at the intersection of **Full-Stack Engineering** and **Agentic AI** not just learning the tools, but building real systems with them.
 
 - 🤖 **Agentic AI** — Multi-agent pipelines using **OpenAI Agents SDK**
 - ⚙️ **Agentic Architecture** — Deep-diving into ReAct patterns, tool-call loops, agent memory, and the three-layer architecture (Schema → Executor → Registry)
