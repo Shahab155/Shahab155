@@ -1,32 +1,112 @@
-<h1 align="center">Hi 👋, I'm Shahab Ud Din</h1>
-<h3 align="center">I am Full Stack developer and learning Agentic AI.</h3>
+<div align="center">
 
-<h1 align="left">About Me!</h1>
+# Shahab Ud Din
 
-- 🌱 I’m currently learning **OpenAI Agents SDK, Agentic AI**
+**Full-Stack Developer · Agentic AI Builder**
 
-- 👨‍💻 All of my projects are available at [https://shahab-uddin.vercel.app/)
+I build production-ready web apps and AI-powered agents — combining a strong frontend foundation with hands-on experience in agentic architectures, LLM orchestration, and multi-agent systems.
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js**
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahab--uddin.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shahab-uddin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahab1544sk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab1544sk)
+[![Email](https://img.shields.io/badge/Email-bhuttoshahab15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuttoshahab15@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@shahab1544sk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahab1544sk)
 
-- 📫 How to reach me **bhuttoshahab15@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think I am funny😅**
+---
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://twitter.com/shahab1544sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahab1544sk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahab1544sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahab1544sk" height="30" width="40" /></a>
-<a href="https://fb.com/shahabuddin.bhutto.963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahabuddin.bhutto.963" height="30" width="40" /></a>
-</p>
+## 🧠 What I'm Building
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm actively working at the intersection of **Full-Stack Engineering** and **Agentic AI** — not just learning the tools, but building real systems with them.
 
-<br/><br/>
+- 🤖 **Agentic AI** — Multi-agent pipelines using **OpenAI Agents SDK**
+- ⚙️ **Agentic Architecture** — Deep-diving into ReAct patterns, tool-call loops, agent memory, and the three-layer architecture (Schema → Executor → Registry)
+- 🌐 **Full-Stack** — Production apps with **Next.js**, **FastAPI**, and **TypeScript**
+- 🔗 **LLM Integration** — Working directly with **Claude API**, **OpenAI**, and building custom agent runtimes
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab155&show_icons=true&locale=en&layout=compact" alt="shahab155" /></p>
+---
 
-<p>&nbsp; &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahab155&show_icons=true&locale=en" alt="shahab155" /></p>
+## 🛠 Tech Stack
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shahab155" alt="shahab155" /></p>
+### AI / Agentic
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Tools & Infra
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=neon&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF4F00?style=flat-square)
+
+---
+
+## 📌 Featured Projects
+
+> ⚠️ **Add 2–3 pinned projects here** — this is the highest-ROI section for recruiters. Use this format:
+
+### 🔹 [Project Name](https://github.com/shahab155/)
+**What it does:** It helps you focus on the top three most important things to be done by adding three tasks and keeping daily track and adding all the unnecessary things to the avoid list..  
+**Stack:** `Next.js` · `FastAPI` · `OpenAI Agents SDK` · `TypeScript`  
+**Key highlight:** e.g., AI agent perform tasks CRUD in natural language and tool-calling.
+
+### 🔹 [Project Name](https://github.com/shahab155/ecommerce-store)
+**What it does:** Fast and modern ecommerce app, where user can come and buy tech gadgets.
+**Stack:** `Next.js` · `Tailwindcss` · `Zustand`  
+**Key highlight:** e.g., It uses next.js, tailwindcss, and zustand, it has very attractive dark theme.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahab155&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab155&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahab155&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- Building portfolio-grade **agentic AI projects** (multi-agent, tool-use, memory, handoffs)
+- Exploring **agentic internals** across OpenAI Agents SDK.
+- Targeting **AI-focused full-stack roles** where I can ship both the agent backend and the product UI
+
+---
+
+<div align="center">
+
+*Open to AI Engineer / Full-Stack AI roles — [let's connect](mailto:bhuttoshahab15@gmail.com)*
+
+</div>
