@@ -6,7 +6,7 @@
 
 ### 👋 Hi, I'm Shahab Ud Din
 
-I build production-ready web apps and AI-powered agents — combining a strong frontend foundation with hands-on experience in agentic architectures, LLM orchestration, and multi-agent systems.
+I build production-ready web apps and AI-powered agents combining a strong frontend foundation with hands-on experience in agentic architectures, LLM orchestration, and multi-agent systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shahab--uddin.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shahab-uddin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahab1544sk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab1544sk)
