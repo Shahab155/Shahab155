@@ -70,9 +70,9 @@ I'm actively working at the intersection of **Full-Stack Engineering** and **Age
 ## 📌 Featured Projects
 
 ### 🔹 [Focus Task Manager](https://github.com/shahab155/)
-**What it does:** Helps you focus on the 3 most important things to get done — add your top tasks, track them daily, and offload distractions to an avoid list.
+**What it does:** Helps you focus on the 3 most important things to get done add your top tasks, track them daily, and offload distractions to an avoid list.
 **Stack:** `Next.js` · `FastAPI` · `OpenAI Agents SDK` · `TypeScript`
-**Key highlight:** AI agent performs task CRUD in natural language via tool-calling — no UI clicks needed.
+**Key highlight:** AI agent performs tasks CRUD in natural language via tool-calling no UI clicks needed.
 
 ### 🔹 [Tech Gadgets E-Commerce](https://github.com/shahab155/ecommerce-store)
 **What it does:** Fast, modern storefront for tech gadgets with a sleek dark theme and smooth UX.
