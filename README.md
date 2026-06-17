@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Shahab ud din — Full Stack and AI Developer" width="100%" />
+  <img src="banner.png" alt="Shahabuddin — Full Stack and AI Developer" width="100%" />
 </div>
 
 <div align="center">
