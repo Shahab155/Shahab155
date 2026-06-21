@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Shahab Ud Din
+### Full Stack and AI Developer — I ship the agent backend *and* the product UI.
 
-I build production-ready web apps and AI-powered agents combining a strong frontend foundation with hands-on experience in agentic architectures, LLM orchestration, and multi-agent systems.
+I build production-ready web apps and agentic systems: multi-agent pipelines, LLM orchestration, and real products that use them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shahab--uddin.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shahab-uddin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahab1544sk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab1544sk)
@@ -19,12 +19,12 @@ I build production-ready web apps and AI-powered agents combining a strong front
 
 ## 🧠 What I'm Building
 
-I'm actively working at the intersection of **Full-Stack Engineering** and **Agentic AI** not just learning the tools, but building real systems with them.
+Working at the intersection of **Full-Stack Engineering** and **Agentic AI** — not just learning the tools, but shipping real systems with them.
 
 - 🤖 **Agentic AI** — Multi-agent pipelines using **OpenAI Agents SDK**
-- ⚙️ **Agentic Architecture** — Deep-diving into ReAct patterns, tool-call loops, agent memory, and the three-layer architecture (Schema → Executor → Registry)
+- ⚙️ **Agentic Architecture** — ReAct patterns, tool-call loops, agent memory, and the three-layer architecture (Schema → Executor → Registry)
 - 🌐 **Full-Stack** — Production apps with **Next.js**, **FastAPI**, and **TypeScript**
-- 🔗 **LLM Integration** — Working directly with **Claude API**, **OpenAI**, and building custom agent runtimes
+- 🔗 **LLM Integration** — Claude API, OpenAI, and custom agent runtimes
 
 ---
 
@@ -34,7 +34,6 @@ I'm actively working at the intersection of **Full-Stack Engineering** and **Age
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 
 ### 🎨 Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -64,20 +63,19 @@ I'm actively working at the intersection of **Full-Stack Engineering** and **Age
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF4F00?style=flat-square)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 [Focus Task Manager](https://github.com/shahab155/)
-**What it does:** Helps you focus on the 3 most important things to get done add your top tasks, track them daily, and offload distractions to an avoid list.
-**Stack:** `Next.js` · `FastAPI` · `OpenAI Agents SDK` · `TypeScript`
-**Key highlight:** AI agent performs tasks CRUD in natural language via tool-calling. Also you can add add and track tasks mannually.
+Focus on your 3 most important tasks daily — add them, track progress, and offload distractions to an avoid list.
+**Stack:** Next.js · FastAPI · OpenAI Agents SDK · TypeScript
+**Key highlight:** AI agent handles full task CRUD in natural language via tool-calling. Manual tracking also supported.
 
 ### 🔹 [Tech Gadgets E-Commerce](https://github.com/shahab155/ecommerce-store)
-**What it does:** Fast, modern storefront for tech gadgets with a sleek dark theme and smooth UX.
-**Stack:** `Next.js` · `Tailwind CSS` · `Zustand`
+Fast, modern storefront for tech gadgets with a sleek dark theme and smooth UX.
+**Stack:** Next.js · Tailwind CSS · Zustand
 **Key highlight:** Fully client-side state management with Zustand; dark theme built from the ground up in Tailwind.
 
 ---
@@ -109,6 +107,6 @@ I'm actively working at the intersection of **Full-Stack Engineering** and **Age
 
 <div align="center">
 
-*Open to AI Engineer / Full-Stack AI roles — [let's connect](mailto:bhuttoshahab15@gmail.com)*
+*Open to AI Engineer / Full-Stack AI roles — [let’s connect](mailto:bhuttoshahab15@gmail.com)*
 
 </div>
