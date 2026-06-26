@@ -99,7 +99,7 @@ Fast, modern storefront for tech gadgets with a sleek dark theme and smooth UX.
 
 ## 🎯 Currently Focused On
 
-- Building portfolio-grade **agentic AI projects** (multi-agent, tool-use, memory, handoffs)
+- Building **agentic AI projects** (multi-agent, tool-use, memory, handoffs)
 - Exploring **agentic internals** across the OpenAI Agents SDK and Claude API
 - Targeting **AI-focused full-stack roles** where I can ship both the agent backend and the product UI
 
